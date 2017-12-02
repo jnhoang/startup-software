@@ -1,12 +1,12 @@
 # startup-software
 
 ## Homebrew
----
+
 `ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 
 
 ## Git
----
+
 `brew install git`
 
 
@@ -24,7 +24,7 @@ Setting up SSH Key
 
 
 ## Node
---- 
+ 
 ```
 brew install node
 node -v
@@ -36,7 +36,7 @@ To finish up your installation, run this command to allow for global installatio
 
 
 ## Sublime
----
+
 
 
 ### Custom Settings
@@ -69,7 +69,7 @@ To finish up your installation, run this command to allow for global installatio
 
 
 ## Setting up command-line
---- 
+ 
 add a shortcut so we can load sublime from the Terminal.
 
 `ln -s /Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl`
@@ -81,7 +81,7 @@ restart
 
 
 ## iterm2
----
+
 (Download)[https://www.iterm2.com/]
 curl -L http://install.ohmyz.sh | sh
 
@@ -94,10 +94,10 @@ restart terminal
 
 
 ## Postman
----
-(Download)[https://app.getpostman.com/app/download/osx64]
+
+[Download](https://app.getpostman.com/app/download/osx64)
 
 
 ## Python
----
-(Download)[https://www.python.org/downloads/]
+
+[Download](https://www.python.org/downloads/)
